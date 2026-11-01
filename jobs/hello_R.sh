@@ -6,5 +6,5 @@
 #SBATCH --output=hello_R_%j.out
 
 module load math/R/4.4.2-openblas
-cd "$HOME/datascience_env_monit"
+cd "$HOME/Env_Monit"
 Rscript scripts/cluster_hello.R
