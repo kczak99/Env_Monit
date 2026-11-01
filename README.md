@@ -16,6 +16,6 @@ docs/ notes and templates
 
 ## Author
 
-Konstantin Czak
+Konstantin Czak, 01.11.2026
 
 This repository was forked from negin-katal/datascience_env_monit:main
