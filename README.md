@@ -8,7 +8,11 @@ Rscript scripts/cluster_hello.R 200
 
 ## Files
 
-scripts/ the analysis code jobs/ Slurm job scripts docs/ notes and templates
+scripts/ the analysis code
+
+jobs/ Slurm job scripts
+
+docs/ notes and templates
 
 ## Author
 
